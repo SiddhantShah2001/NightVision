@@ -52,6 +52,7 @@
  * Adapter Male Pin -> Arduino DC Female Socket
  */
 
+// Declaring I/O Pins
 const int LDR = 7;  // Out-Pin from LDR Module.
 const int PIR = 8;  // Out-Pin from PIR Module.
 const int LED = 9;  // Output Pin for LED. (Connects to the Base of BJT TIP122 or Gate of Logic Level MOSFET via 1K Ohm Resistor)
