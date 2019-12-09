@@ -44,4 +44,5 @@ LED Strip:
 2. -ve/Gnd  ->  Transistor Collector/Drain
 
 12V DC Adapter:
+
 1.Adapter Male Pin  ->  Arduino DC Female Socket
